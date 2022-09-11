@@ -14,16 +14,15 @@ Basic knowledge of HTML/CSS
 
 ## Code example** 
 
-``` <!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <body>
-
 <h2>HTML Buttons</h2>
-
 <button>Click me</button>
-
 </body>
-</html> ```
+</html>
+```
 
 
 ## English level  
