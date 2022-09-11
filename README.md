@@ -1,1 +1,1 @@
-https://Dunkezzz.github.io/rsschool-cv
+https://Dunkezzz.github.io/rsschool-cv/cv 
