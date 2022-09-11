@@ -1,17 +1,20 @@
 # Mukushev Yerzhan
 
-email: mukushev.yer@gmail.com 
-discord: Yerzhan#8542
+**email:** mukushev.yer@gmail.com 
+**discord:** Yerzhan#8542
 
 *I'm currently learning front-end development basics. I have rich experience in graphic design, 3d and motion design. Also I'm learning game development in Unity. My goal is to build strong knowledge of front-end development and create stunning project using all my skills from the past.*
 
-## Skills
+## Learning experience**
+freecodecamp
 
-*Basic knowledge of HTML/CSS*
+## Skills**
 
-## Code example 
+Basic knowledge of HTML/CSS
 
-```<!DOCTYPE html>
+## Code example** 
+
+``` <!DOCTYPE html>
 <html>
 <body>
 
@@ -20,9 +23,9 @@ discord: Yerzhan#8542
 <button>Click me</button>
 
 </body>
-</html>```
+</html> ```
 
-## Learning experience
-freecodecamp
 
-*English level- C1. 7,5 score in IELTS*
+## English level  
+
+**C1** *7,5 score in IELTS*
