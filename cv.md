@@ -6,7 +6,7 @@
 *I'm currently learning front-end development basics. I have rich experience in graphic design, 3d and motion design. Also I'm learning game development in Unity. My goal is to build strong knowledge of front-end development and create stunning project using all my skills from the past.*
 
 ## Learning experience**
-freecodecamp
+[FRECODECAMP](https://freecodecamp.org)
 
 ## Skills**
 
